@@ -1,0 +1,92 @@
+{
+  "schema": "filmcraft-agent.verification.v1",
+  "verifiedAt": "2026-11-18",
+  "upstream": {
+    "tag": "v0.20.1",
+    "commit": "cedf0c9bd060eb06a977d532402be2097c9ebe42",
+    "cliVersion": "filmcraft-cli 0.20.1",
+    "appVersion": "filmcraft 0.20.1",
+    "linuxX8664ArchiveBytes": 112162847,
+    "linuxX8664ArchiveSha256": "3e4fea3cb8d473e68f189a0a8792ba46160fab507adab3ab8920073fd41f24fa",
+    "archiveChecksumVerified": true
+  },
+  "environment": {
+    "os": "Linux",
+    "architecture": "x86_64",
+    "desktopDisplay": "isolated Xvfb",
+    "graphicsMode": "software"
+  },
+  "documentation": {
+    "files": 69,
+    "bytes": 8450732,
+    "manifestSha256Verification": "passed"
+  },
+  "headless": {
+    "status": "passed",
+    "protocolVersion": "2025-06-18",
+    "serverName": "filmcraft",
+    "serverVersion": "0.20.1",
+    "toolCount": 17,
+    "resources": ["filmcraft://document", "filmcraft://commands"],
+    "liveCommandCatalogCount": 718,
+    "reversibleEditCuts": 3,
+    "undoCalled": true,
+    "renderedFrame": "tests/baseline/headless-frame.png",
+    "export": {
+      "rangeSeconds": [1.0, 1.5],
+      "frames": 13,
+      "durationSeconds": 0.542,
+      "offlineMedia": [],
+      "warnings": [],
+      "videoStreamPresent": true,
+      "fullDecode": "passed",
+      "midpointSeconds": 0.271,
+      "rgbMean": [90.2490234375, 56.5302734375, 69.2587890625],
+      "rgbStddev": [66.13744491693095, 44.4667522118378, 24.789749111954126],
+      "visualContentCheck": "passed",
+      "midpointFrame": "tests/baseline/export-midpoint.png"
+    }
+  },
+  "bridge": {
+    "status": "passed",
+    "toolCount": 17,
+    "toolElementCount": 15,
+    "uiInspectReceived": true,
+    "isolatedDemo": true,
+    "userProjectTouched": false,
+    "windowScreenshot": "tests/baseline/bridge-window.png"
+  },
+  "configuration": {
+    "repeatableUnitTests": 4,
+    "unitTestsStatus": "passed",
+    "openCodeOfficialJsonSchemaErrors": 0,
+    "mergePreservation": "passed",
+    "managedReplacement": "passed",
+    "backupCreation": "passed",
+    "conflictRejectedBeforeWrites": true,
+    "openCodeV2AndLegacySeparation": "passed"
+  },
+  "documentationUpdate": {
+    "trustedOfflineMirrorCycle": "passed",
+    "files": 69,
+    "commitVerification": "passed",
+    "backupAndPostUpdateIntegrityCheck": "passed",
+    "onlineGithubCycle": "not completed in the build environment because of repeated TLS termination"
+  },
+  "clientApplications": {
+    "status": "not run",
+    "reason": "Kimi Code, Codex, Claude Code, Cursor, Gemini CLI, VS Code and OpenCode executables were not installed in the verification environment",
+    "verifiedInstead": [
+      "current official configuration formats",
+      "JSON and TOML parsing",
+      "OpenCode official JSON Schema",
+      "real FilmCraft MCP server through the bundled protocol client"
+    ]
+  },
+  "limits": [
+    "This is not an exhaustive test of all 718 commands, codecs or interchange formats.",
+    "Hardware GPU paths were not tested.",
+    "Client-specific approval and image-display behavior must be verified on the user's installed clients.",
+    "A visual-content gate was added after the demo's initial black interval exposed the insufficiency of decode-only validation."
+  ]
+}

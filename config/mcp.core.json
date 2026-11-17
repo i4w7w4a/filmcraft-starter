@@ -1,0 +1,13 @@
+{
+  "schema": "filmcraft-agent.core.v1",
+  "transport": "stdio",
+  "bridgeServer": "filmcraft",
+  "headlessServer": "filmcraft-headless",
+  "bridgeAddress": "127.0.0.1:9876",
+  "headlessArgs": ["mcp"],
+  "bridgeArgs": ["mcp", "--bridge", "127.0.0.1:9876"],
+  "tokenEnvironmentVariable": "FILMCRAFT_CONTROL_TOKEN",
+  "tokenStoredInConfiguration": false,
+  "filesystemConfinementProvidedByFilmCraft": false,
+  "notes": "Run scripts/filmcraft_agent.py configure to generate client-specific files with the local absolute CLI path."
+}

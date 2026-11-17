@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.env
+/workspace/runtime/
+/workspace/exports/
+/workspace/previews/
+/references/commands.local.json
+/tests/results/*.local.json
+
+# Machine-specific generated MCP configuration
+/.kimi-code/mcp.json
+/.codex/config.toml
+/.mcp.json
+/.cursor/mcp.json
+/.gemini/settings.json
+/.vscode/mcp.json
+/opencode.json
+/config/mcp.json

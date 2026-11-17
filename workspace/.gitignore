@@ -1,0 +1,6 @@
+runtime/
+exports/
+previews/
+*.log
+*.tmp
+.env

@@ -1,0 +1,492 @@
+{
+  "upstream": "https://github.com/storytold/filmcraft",
+  "tag": "v0.20.1",
+  "commit": "cedf0c9bd060eb06a977d532402be2097c9ebe42",
+  "release_published_at": "2026-11-12T00:26:09Z",
+  "retrieved_at": "2026-11-17T16:46:50.479942+00:00",
+  "files": [
+    {
+      "source_path": "docs/file-format-parity.md",
+      "local_path": "docs/file-format-parity.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/file-format-parity.md",
+      "sha256": "7830e01b4dde2cbe35b49566cb53cbc6c6763cd666dc2c47d3579de045f63877",
+      "bytes": 8487
+    },
+    {
+      "source_path": "docs/testing.md",
+      "local_path": "docs/testing.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/testing.md",
+      "sha256": "57162e1411a6117af689e13999aedfc96aaa56f92cf2f3696d2c42baff2564e0",
+      "bytes": 46552
+    },
+    {
+      "source_path": "docs/gaps.md",
+      "local_path": "docs/gaps.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/gaps.md",
+      "sha256": "6aabf76cca26c5f663d75fc69597a909d116fd3be854d396f8749561d2beb447",
+      "bytes": 26926
+    },
+    {
+      "source_path": "docs/monitors.md",
+      "local_path": "docs/monitors.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/monitors.md",
+      "sha256": "f5c5d988cb7afddd782fb398c0b61a4a2c474871ea28912ccb3f70de188bf470",
+      "bytes": 13745
+    },
+    {
+      "source_path": "docs/getting-started-fades.md",
+      "local_path": "docs/getting-started-fades.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/getting-started-fades.md",
+      "sha256": "bf5d117538a0b5cd164360b6c0854c6208a5be32738f333f8a7b39c9e627e7b8",
+      "bytes": 13122
+    },
+    {
+      "source_path": "docs/performance.md",
+      "local_path": "docs/performance.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/performance.md",
+      "sha256": "04bed2a5a74b660ec60a088c350676b9135519f6062dd08536eeaea5ca67a2e4",
+      "bytes": 74153
+    },
+    {
+      "source_path": "docs/captions.md",
+      "local_path": "docs/captions.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/captions.md",
+      "sha256": "03f4bca413e1800b2a1b3af2d37d16385acd2f218793d6e1daf5a18677d55c43",
+      "bytes": 8201
+    },
+    {
+      "source_path": "docs/ui-parity.md",
+      "local_path": "docs/ui-parity.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/ui-parity.md",
+      "sha256": "e004c497ccea1d37d895d98c5e56a12e59892a4533a795dd8f905e8eaa9a6e9e",
+      "bytes": 4772
+    },
+    {
+      "source_path": "docs/localization-parity.md",
+      "local_path": "docs/localization-parity.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/localization-parity.md",
+      "sha256": "3e6ccf1ef8fb27c7ebc103f6d89c6a15a1ee81f5038f0e748a0bb5ec76e5c9d7",
+      "bytes": 10942
+    },
+    {
+      "source_path": "docs/hardware-parity.md",
+      "local_path": "docs/hardware-parity.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/hardware-parity.md",
+      "sha256": "3316c58e5637b151ee94c9c71ed1738b98ab92e902357c3f5b976a2d3dca713b",
+      "bytes": 6805
+    },
+    {
+      "source_path": "docs/architecture.md",
+      "local_path": "docs/architecture.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/architecture.md",
+      "sha256": "aa3c55e6aebbf68d185e8d06d469d3ea14e74f49187cf6abb9e32f531b972332",
+      "bytes": 67954
+    },
+    {
+      "source_path": "docs/graphics.md",
+      "local_path": "docs/graphics.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/graphics.md",
+      "sha256": "d569a05175fed18fa7d8d94f74a7d163ebda70553e1da924d7cdf7e42df68ad9",
+      "bytes": 25349
+    },
+    {
+      "source_path": "docs/contributors.md",
+      "local_path": "docs/contributors.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/contributors.md",
+      "sha256": "070f11e648657762a1b7ace88b0131b2702728291680f54614d3b8c666b53c86",
+      "bytes": 2160
+    },
+    {
+      "source_path": "docs/project-files.md",
+      "local_path": "docs/project-files.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/project-files.md",
+      "sha256": "15053c65f0fb61dc98b22208c9dd332355ab208e9c0c54362e10dc2ebcb11480",
+      "bytes": 32704
+    },
+    {
+      "source_path": "docs/releasing.md",
+      "local_path": "docs/releasing.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/releasing.md",
+      "sha256": "5b65a56ce8bb0f12450660215ee6341083179d2777a2731a67924c590730c2b6",
+      "bytes": 12450
+    },
+    {
+      "source_path": "docs/web.md",
+      "local_path": "docs/web.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/web.md",
+      "sha256": "475599327ae26e9f035fd1473e7f70ebabdadcf14c38c4ea4bf5b0bb11965a89",
+      "bytes": 9527
+    },
+    {
+      "source_path": "docs/keyboard.md",
+      "local_path": "docs/keyboard.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/keyboard.md",
+      "sha256": "ab9e764be732872d152b4f6c5bb515a24d4348c566f7aacec47a95418c508951",
+      "bytes": 8338
+    },
+    {
+      "source_path": "docs/control-protocol.md",
+      "local_path": "docs/control-protocol.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/control-protocol.md",
+      "sha256": "d9cafe5f0c91daafb37fbc1e006fde6b49041fd90ab2f785487c1bda3b894edf",
+      "bytes": 25198
+    },
+    {
+      "source_path": "docs/target-app-parity.md",
+      "local_path": "docs/target-app-parity.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/target-app-parity.md",
+      "sha256": "f4a43557bd0ee7daebfa537e41b0f98a2e050d0bafffbd3a2fc0a558168b4a71",
+      "bytes": 29784
+    },
+    {
+      "source_path": "docs/transcripts.md",
+      "local_path": "docs/transcripts.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/transcripts.md",
+      "sha256": "f6920981163431f708a7bc20879cf3e542269dc6b27fb71aa69026ca24ce8175",
+      "bytes": 7165
+    },
+    {
+      "source_path": "docs/contributing.md",
+      "local_path": "docs/contributing.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/contributing.md",
+      "sha256": "44dfc8643c382378b84988b4a492d53d26336c3258f13178ee97657c4703d2cd",
+      "bytes": 18218
+    },
+    {
+      "source_path": "docs/feature-naming.md",
+      "local_path": "docs/feature-naming.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/feature-naming.md",
+      "sha256": "9999a0a07306249a594f6518bdb641ae15b7a6b6599ff8d2bfab2536536a25d9",
+      "bytes": 4510
+    },
+    {
+      "source_path": "docs/codec-parity.md",
+      "local_path": "docs/codec-parity.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/codec-parity.md",
+      "sha256": "43fee717646d9e5cd9c03bbd6bc2410ceacde8a0363d986d60f4fd67b962a377",
+      "bytes": 7858
+    },
+    {
+      "source_path": "docs/roadmap.md",
+      "local_path": "docs/roadmap.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/roadmap.md",
+      "sha256": "77423d39e7e6ea07030cc030e53152380a08d919c53e3ac4a06c75c52da5bfac",
+      "bytes": 18131
+    },
+    {
+      "source_path": "docs/egui-037-migration-plan.md",
+      "local_path": "docs/egui-037-migration-plan.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/egui-037-migration-plan.md",
+      "sha256": "4b3dd92f97303e3079ddb18700fb84a65c53d36df2a5b01f6edb7d5eaef14bd1",
+      "bytes": 117166
+    },
+    {
+      "source_path": "docs/agents.md",
+      "local_path": "docs/agents.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/agents.md",
+      "sha256": "3ce2af777b8edc8ce829621592874e18fcf41d1b1e5fe6c2bf9a5103178d387b",
+      "bytes": 30874
+    },
+    {
+      "source_path": "docs/images/filmcraft-effects.png.attribution",
+      "local_path": "docs/images/filmcraft-effects.png.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-effects.png.attribution",
+      "sha256": "c28654353794f65c1715dd56b0e3b7dadc40b56ef71fcbb0f87587d02574db2c",
+      "bytes": 1793
+    },
+    {
+      "source_path": "docs/images/filmcraft-timeline.png",
+      "local_path": "docs/images/filmcraft-timeline.png",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-timeline.png",
+      "sha256": "73052e1d3b7cb4d1ff2716f6001923a8c2bba2515302dcd17325a3e8ea9f55fc",
+      "bytes": 429408
+    },
+    {
+      "source_path": "docs/images/filmcraft-assembly.png",
+      "local_path": "docs/images/filmcraft-assembly.png",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-assembly.png",
+      "sha256": "571184efe9db6b14e45db1db126bbac7bbe38dbd0c0be7e28f4700b4ab1b3c56",
+      "bytes": 1054638
+    },
+    {
+      "source_path": "docs/images/filmcraft-effects.png",
+      "local_path": "docs/images/filmcraft-effects.png",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-effects.png",
+      "sha256": "aef9d2488cba07f6002fe1c08a44ce8574234d4f587a441f31165d819f6e3cdd",
+      "bytes": 781656
+    },
+    {
+      "source_path": "docs/images/filmcraft-export.png",
+      "local_path": "docs/images/filmcraft-export.png",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-export.png",
+      "sha256": "d19c31c8bb3c9c0ddd73a6c969f3440a3af1b84b06484eae639d6571e426ab66",
+      "bytes": 757987
+    },
+    {
+      "source_path": "docs/images/filmcraft-hero.png.attribution",
+      "local_path": "docs/images/filmcraft-hero.png.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-hero.png.attribution",
+      "sha256": "8802761e85dacda95caaa52890b82448d8d6d068cd4cf9390462763f9c112d25",
+      "bytes": 5529
+    },
+    {
+      "source_path": "docs/images/filmcraft-assembly.png.attribution",
+      "local_path": "docs/images/filmcraft-assembly.png.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-assembly.png.attribution",
+      "sha256": "07aaac62eee3101b44323b2acf848c23a9531e9c72e36b4745fcd596ffe2cc2b",
+      "bytes": 1863
+    },
+    {
+      "source_path": "docs/images/filmcraft-keyframes.png.attribution",
+      "local_path": "docs/images/filmcraft-keyframes.png.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-keyframes.png.attribution",
+      "sha256": "a12eff2cfe8eeafed3fa503b911750188ad74401ec22a3ae28b848449cdbd336",
+      "bytes": 1838
+    },
+    {
+      "source_path": "docs/images/filmcraft-export.png.attribution",
+      "local_path": "docs/images/filmcraft-export.png.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-export.png.attribution",
+      "sha256": "830001e9430a630ddb5732a4228c6c56115c2a59727293a317a0098d2d2d13d2",
+      "bytes": 1761
+    },
+    {
+      "source_path": "docs/images/filmcraft-color-panel.png.attribution",
+      "local_path": "docs/images/filmcraft-color-panel.png.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-color-panel.png.attribution",
+      "sha256": "100fc35714d2aed8630f9b596254244032d20bd67f3a73507632252d85cf4deb",
+      "bytes": 1776
+    },
+    {
+      "source_path": "docs/images/filmcraft-hero.png",
+      "local_path": "docs/images/filmcraft-hero.png",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-hero.png",
+      "sha256": "0f046462e2ca77a3efa29d05c1680867b38ea98c250f76943906bb78ee8e4ed9",
+      "bytes": 1281948
+    },
+    {
+      "source_path": "docs/images/filmcraft-scopes.png",
+      "local_path": "docs/images/filmcraft-scopes.png",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-scopes.png",
+      "sha256": "2bd8d2484e800808d5371a31ac97237bacf89cead1d9d2291a0ab572ac42f79b",
+      "bytes": 489454
+    },
+    {
+      "source_path": "docs/images/filmcraft-timeline.png.attribution",
+      "local_path": "docs/images/filmcraft-timeline.png.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-timeline.png.attribution",
+      "sha256": "1794ad25ca5ed15a5bbd4d13931ae77613018e9b3da32c62c806da778b3f556f",
+      "bytes": 1817
+    },
+    {
+      "source_path": "docs/images/filmcraft-color-panel.png",
+      "local_path": "docs/images/filmcraft-color-panel.png",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-color-panel.png",
+      "sha256": "fbe0b72b1a3ed0210ca45be770c51cf17e0ec002494c1a3670c8e9f684cd1089",
+      "bytes": 99840
+    },
+    {
+      "source_path": "docs/images/filmcraft-scopes.png.attribution",
+      "local_path": "docs/images/filmcraft-scopes.png.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-scopes.png.attribution",
+      "sha256": "8d79a8c12a0c40affa3e1978ca9fc68ac7ba3180821b8613afa75b6fa122b0bf",
+      "bytes": 1735
+    },
+    {
+      "source_path": "docs/images/filmcraft-keyframes.png",
+      "local_path": "docs/images/filmcraft-keyframes.png",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-keyframes.png",
+      "sha256": "041d02d8c5dea57b0408ec55227e7c2f83497d19f8e7c0fa2358c044b0b61203",
+      "bytes": 1031297
+    },
+    {
+      "source_path": "docs/images/filmcraft-color.png",
+      "local_path": "docs/images/filmcraft-color.png",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-color.png",
+      "sha256": "429b883b4d6531b4a826059ca84146c80f2138cdfa19e5abdee541dac964c1a4",
+      "bytes": 1622437
+    },
+    {
+      "source_path": "docs/images/filmcraft-color.png.attribution",
+      "local_path": "docs/images/filmcraft-color.png.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/images/filmcraft-color.png.attribution",
+      "sha256": "52419c58948f0e9498a1c713a86c8cf4cd22ac6435196e793c76e0f496258d9f",
+      "bytes": 1791
+    },
+    {
+      "source_path": "docs/brand/artcraft-logo-white.png",
+      "local_path": "docs/brand/artcraft-logo-white.png",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/artcraft-logo-white.png",
+      "sha256": "8b86aeb06a12a90ba77a60e0d90329272310e244ee5c1f9b161b391280ca79d8",
+      "bytes": 32161
+    },
+    {
+      "source_path": "docs/brand/artcraft-logo.svg.attribution",
+      "local_path": "docs/brand/artcraft-logo.svg.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/artcraft-logo.svg.attribution",
+      "sha256": "38f6ee6b7c40edcd8f27514f45fdaff4a63df6d3e07cf7d149b91538c942dc5a",
+      "bytes": 892
+    },
+    {
+      "source_path": "docs/brand/artcraft-logo-white.svg.attribution",
+      "local_path": "docs/brand/artcraft-logo-white.svg.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/artcraft-logo-white.svg.attribution",
+      "sha256": "cd548fde79eb62f1a63a631984b742db2d9ca6df7d1e4c10812fefdcd8c2ad80",
+      "bytes": 876
+    },
+    {
+      "source_path": "docs/brand/artcraft-mark.png.attribution",
+      "local_path": "docs/brand/artcraft-mark.png.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/artcraft-mark.png.attribution",
+      "sha256": "87e1bbadcc26f7a25f45a6e3d5d37d71eb16be28242f0534e2f55494623496b0",
+      "bytes": 863
+    },
+    {
+      "source_path": "docs/brand/artcraft-mark.svg",
+      "local_path": "docs/brand/artcraft-mark.svg",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/artcraft-mark.svg",
+      "sha256": "f87af81b6fa411da8820eed2bfdcc54c0ee9cd453b4e868c64f56c69db142d0e",
+      "bytes": 341
+    },
+    {
+      "source_path": "docs/brand/artcraft-logo.png",
+      "local_path": "docs/brand/artcraft-logo.png",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/artcraft-logo.png",
+      "sha256": "08fc6d9d3717e8f13417bac6f9025b50e11d1e0b32e9e000883d2fe0c4a0c67b",
+      "bytes": 31302
+    },
+    {
+      "source_path": "docs/brand/artcraft-logo-white.png.attribution",
+      "local_path": "docs/brand/artcraft-logo-white.png.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/artcraft-logo-white.png.attribution",
+      "sha256": "4b646906c4f40e0f80e4f01d4c237bbcfee16a1186ed573e818b88ca4ec0cfd7",
+      "bytes": 885
+    },
+    {
+      "source_path": "docs/brand/artcraft-logo.svg",
+      "local_path": "docs/brand/artcraft-logo.svg",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/artcraft-logo.svg",
+      "sha256": "3188971e1affdf4f6be4fa65f715376a7a305e6aa741ec78b0296c8f934eff08",
+      "bytes": 5394
+    },
+    {
+      "source_path": "docs/brand/artcraft-mark-black.svg.attribution",
+      "local_path": "docs/brand/artcraft-mark-black.svg.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/artcraft-mark-black.svg.attribution",
+      "sha256": "fa993eafbf7fde7c3e7765cec8730fd4b1958fd844fec6d25b2c3ff2aecf1d9e",
+      "bytes": 816
+    },
+    {
+      "source_path": "docs/brand/LICENSE-brand.txt",
+      "local_path": "docs/brand/LICENSE-brand.txt",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/LICENSE-brand.txt",
+      "sha256": "d30f3aee39b72be3d1c1bdf994b75470ff53a354ca8ba6039c3a70a647b732fe",
+      "bytes": 2263
+    },
+    {
+      "source_path": "docs/brand/artcraft-mark.png",
+      "local_path": "docs/brand/artcraft-mark.png",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/artcraft-mark.png",
+      "sha256": "9d372157a949c147318561e629b11561c28b7cbc14c84b516a3fe6e84d8fbbad",
+      "bytes": 24715
+    },
+    {
+      "source_path": "docs/brand/artcraft-logo-white.svg",
+      "local_path": "docs/brand/artcraft-logo-white.svg",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/artcraft-logo-white.svg",
+      "sha256": "a3e03dc49f9ad4225b8517d5424309c8d1c864d3996d862190d9cc797d5af427",
+      "bytes": 5394
+    },
+    {
+      "source_path": "docs/brand/artcraft-logo.png.attribution",
+      "local_path": "docs/brand/artcraft-logo.png.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/artcraft-logo.png.attribution",
+      "sha256": "39d4e34d3809af67505d607d5b24c5854e4b506abc09edceaeef3c1525c2ec4a",
+      "bytes": 901
+    },
+    {
+      "source_path": "docs/brand/artcraft-mark-black.svg",
+      "local_path": "docs/brand/artcraft-mark-black.svg",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/artcraft-mark-black.svg",
+      "sha256": "570adcb4f7ba8ca0647f97074476bab81d3272988f1cdee52efa21bf026036a4",
+      "bytes": 341
+    },
+    {
+      "source_path": "docs/brand/artcraft-mark-black.png.attribution",
+      "local_path": "docs/brand/artcraft-mark-black.png.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/artcraft-mark-black.png.attribution",
+      "sha256": "353569f0b4a6b550e751e9a04baaa82043a3f3a4c26e046ea191c0ae04724f47",
+      "bytes": 826
+    },
+    {
+      "source_path": "docs/brand/artcraft-mark-black.png",
+      "local_path": "docs/brand/artcraft-mark-black.png",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/artcraft-mark-black.png",
+      "sha256": "5954cc0306e1b9d7beb47097e2e842157113a39d9aba078b57304902687936a9",
+      "bytes": 26793
+    },
+    {
+      "source_path": "docs/brand/artcraft-mark.svg.attribution",
+      "local_path": "docs/brand/artcraft-mark.svg.attribution",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/brand/artcraft-mark.svg.attribution",
+      "sha256": "aa9e80a64d25142602c33a562dd099e6e63b9d451cda05fd7938398085fe78d4",
+      "bytes": 853
+    },
+    {
+      "source_path": "docs/adr/0001-platform-ffi.md",
+      "local_path": "docs/adr/0001-platform-ffi.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/docs/adr/0001-platform-ffi.md",
+      "sha256": "805ff8e425c7ff11f0ae1dd98add63aac1acc6ffaef774d4f3e81c7d4eba53d8",
+      "bytes": 18198
+    },
+    {
+      "source_path": "README.md",
+      "local_path": "README.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/README.md",
+      "sha256": "e484aa3dc84a5ee1996acd9d8cfc4bb742f08d420950bfb1cc4ba18f6fb4be69",
+      "bytes": 39865
+    },
+    {
+      "source_path": "ROADMAP.md",
+      "local_path": "ROADMAP.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/ROADMAP.md",
+      "sha256": "3173590b82ba470ed71ec1747e1cc47b249311569da14aa6d5b8f9650e31acce",
+      "bytes": 26948
+    },
+    {
+      "source_path": "SECURITY.md",
+      "local_path": "SECURITY.md",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/SECURITY.md",
+      "sha256": "d03532b53bb685e03e079a3dd85e470c20104625d6b692b74d83aa55a9045519",
+      "bytes": 2157
+    },
+    {
+      "source_path": "LICENSE-APACHE",
+      "local_path": "LICENSE-APACHE",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/LICENSE-APACHE",
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+      "bytes": 10174
+    },
+    {
+      "source_path": "LICENSE-MIT",
+      "local_path": "LICENSE-MIT",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/LICENSE-MIT",
+      "sha256": "d2d8416f0883694c23b473e26372506e9e11f5f41b55a92b7388dab921d9a207",
+      "bytes": 1101
+    },
+    {
+      "source_path": "NOTICE",
+      "local_path": "NOTICE",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/NOTICE",
+      "sha256": "717a46e0fed6b8381cde394291c51d257db53ab9a0de333fcaa515a7a1ca5eec",
+      "bytes": 16746
+    },
+    {
+      "source_path": ".mcp.json",
+      "local_path": "mcp.source.json",
+      "url": "https://raw.githubusercontent.com/storytold/filmcraft/v0.20.1/.mcp.json",
+      "sha256": "aef90535c3b1ea9a6fc663926e0bce8d36a5032092310957d59531a7cc510607",
+      "bytes": 268
+    }
+  ]
+}
